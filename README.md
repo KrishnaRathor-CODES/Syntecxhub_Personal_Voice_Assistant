@@ -2,6 +2,7 @@
 
 This is a Python-based voice assistant I built. It uses speech recognition to listen to what I say and a text-to-speech engine to talk back to me. It's designed to be a casual digital buddy that can help with basic tasks and keep a conversation going.
 
+
 ### Cool Features
 *   **Time-Aware Greeting:** When it starts up, it actually checks the clock. It'll say "Good morning," "Good afternoon," or "Good evening" depending on when I run it.
 *   **Memory:** It asks for my name at the start and remembers it, occasionally using it in conversation to feel more personal.
